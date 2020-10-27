@@ -1,0 +1,12 @@
+Name: My vocabulary
+Version: 1.0
+Made by Đoàn Tấn Lộc
+Email: loc.doanbku@hcmut.edu.vn
+
+Tutorial:
+1. Click  on button " Run " to load data.
+2. Write your answer and click on button " Submit " to test your answer.
+3. If you want to add your new vocabullary. You must click on button " Add vocab " to add new vocabulary.
+4. Click on button " My vocabulary ", you can see a list of your vocabulary.
+5. Click on button " Hint " to get answer.
+6. If you want to change your data, please! come to " bin\Debug\Data.txt" to change data.  	

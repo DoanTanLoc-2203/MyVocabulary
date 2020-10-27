@@ -1,0 +1,81 @@
+0....................................
+1.Mứt (đồ ăn), sự tắc nghẽn, sự nhồi nhét-Jam/Noun 
+2.sử dụng 2 thứ tiếng, song ngữ-Bilingual/Adjective 
+3.sự thuận lợi, lợi thế-Advantage/Noun 
+4.việc mạo hiểm, việc liều lĩnh-Venture/Noun 
+5.ở trạng thái cân bằng, tư thế sẵn sàng-Poised/Adjective 
+6.một cách đáng tiếc, không may-Unfortunately/Adverb 
+7.kiên nhẫn, (n) bệnh nhân-Patient/Adjective 
+8.Vồ chụp (mèo), (n) sự tấn công bất ngờ-Pounce/Verb 
+9.ăn nhanh, ngấu ngiến, nuốt lấy nuốt để-Gobble/Verb 
+10.kêu gừ (tiếng mèo gừ)-Purr/Verb 
+11.cho phép-Allow /Verb 
+12.tiếng la hét, tiếng gọi, kêu thét-Shout/Noun 
+13.giận dữ, điên tiết-Furious/Adjective 
+14.không tưởng tượng nổi, không thể hình dung được-Unthinkable/Adjective 
+15.hoàn toàn, tuyệt đối, dứt khoát-Utter/Adjective 
+16.con vẹt-Parrot/Noun 
+17.thịnh vượng, phồn vình-Prosper/Verb 
+18.kinh thánh-Bible/Noun 
+19.khác thường, xuất sắc, đặt biệt-Remarkable/Adjective 
+20.thuật lại, kể lại-Recite/Verb 
+21.thơ, thơ ca-Verse/Noun 
+22.thô lỗ, xấc xược-Rude/Adjective 
+23.lông mày-Eyebrow/Noun 
+24.đi thơ thẩn, lang thang-Wander/Verb 
+25.Suy ngẫm, trầm tư-Ponder/Verb 
+26.nâng lên, nhấc lên-Lift/Verb 
+27.thình lình, đột ngột-Suddenly/Adjective 
+28.hào, rãnh, mương-Ditch/Noun 
+29.dòng chảy nhỏ giọt-Trickle/Noun 
+30.cầu nguyện, khẩn cầu-Pray/Verb 
+31.lớn tiếng, to lên (nói)-Aloud/Adverb 
+32.anh chàng, gã, người đàn ông-Fellow /Noun 
+33.Uống, nốc, hút (hơi ẩm)-Imbibe/Verb 
+34.Sự thu nhận, kết nạp, tiệc chiêu đãi-Reception/Noun 
+35.vô tội, không có hại, ngây thơ, người vô tội (n)-Innocent/Adjective 
+36.điệu bộ, cử chỉ-Gesture/Noun 
+37.trông nom, săn sóc, giữ gìn, phục vụ-Tend/Verb 
+38.ghen tị, đố kỵ-Jealous/Adjective 
+39.dễ thấy, đáng chú ý-Conspicuous/Adjective 
+40.buông, quăng, thả, ném, tung-Toss/Verb 
+41.thở dài, tiếng thở dài-Sigh/Noun 
+42.nhà chứa-Brothel/Noun 
+43.hôi hám, hôi thối, bẩn thỉu-Foul/Adjective 
+44.kêu lên, thốt lên-Exclaim/Verb 
+45.nhớ nhà, nhớ quê hương-Homesick/Adjective 
+46.giàu sang, giàu có-Wealthy/Adjective 
+47.thợ mộc-Capenter/Noun 
+48.làm bóng, mịn, (adj) lịch sự, tinh tế-Polish /Verb 
+49.hơn, vượt, trội hơn-Surpass/Verb 
+50.sự bộc phát, bùng nổ-Outbreak/Noun 
+51.sự đòi hỏi, quyền đòi hỏi-Claim/Noun 
+52.Bệnh cơ thể, tệ nạn -Disease/Noun 
+53.theo. theo cách , tùy theo-According/Preposition 
+54.xa hơn về phía trước-Ahead/Preposition 
+55.cao độ, mạnh mẽ, tập trung, chuyên sâu-Intensive/Adjective 
+56.bờ vực (miệng)-Brink/Noun 
+57.sự hộ tống, hộ vệ, đoàn hộ tống-Convoy/Noun 
+58.xấu nhật, tệ nhất, không đáng mong muốn-Worst /Adjective 
+59.Sự hỏa thiêu, hỏa táng-Cremation/Noun 
+60.khác thường, đặc biệt-Remarkable/Adjective 
+61.Hoãn lại, làm gián đoạn-Suspend/Verb 
+62.diễu hành-March/Noun 
+63.bò, trườn-Crawl/Verb 
+64.kéo, níu kéo-Drag/Verb 
+65.nhảy qua, nhảy vọt qua-Leap/Verb 
+66.duỗi ra-Stretch/Verb 
+67.dựa, tựa-Lean/Verb 
+68.uốn lượn, bẻ cong-Bend/Verb 
+69.nhặt lên-Pick up/Verb 
+70.cào, gom-Rake up /Orther 
+71.lau, chùi, cọ rửa-Scrub/Verb 
+72.may, khâu-Sew/Verb 
+73.vuốt nhẹ, vỗ nhẹ, thoa-Pat/Verb 
+74.thọc lét, cù lét-Tickle/Verb 
+75.hắt hơi-Sneeze/Verb 
+76.đi chơi, gặp gỡ-hang out/Verb 
+77.lướt web, tuy cập mạng-Surf the web/Orther 
+78.cạo râu-Shave/Verb 
+79.Ngáp-Yawn/Verb 
+80.lau bụi-Dust/Verb 

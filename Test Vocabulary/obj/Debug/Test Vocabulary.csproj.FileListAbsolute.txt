@@ -1,0 +1,23 @@
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\bin\Debug\Test Vocabulary.exe.config
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\bin\Debug\Test Vocabulary.exe
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\bin\Debug\Test Vocabulary.pdb
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test Vocabulary.csprojResolveAssemblyReference.cache
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test_Vocabulary.Form1.resources
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test_Vocabulary.Properties.Resources.resources
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test Vocabulary.csproj.GenerateResource.Cache
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test Vocabulary.exe
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test Vocabulary.pdb
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test_Vocabulary.Form2.resources
+E:\Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test_Vocabulary.Form3.resources
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\bin\Debug\Test Vocabulary.exe.config
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test Vocabulary.exe
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test Vocabulary.pdb
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\bin\Debug\Test Vocabulary.exe
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\bin\Debug\Test Vocabulary.pdb
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test Vocabulary.csprojResolveAssemblyReference.cache
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test_Vocabulary.Form1.resources
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test_Vocabulary.Form2.resources
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test_Vocabulary.Form3.resources
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test_Vocabulary.Properties.Resources.resources
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test Vocabulary.csproj.GenerateResource.Cache
+E:\My Project\English Vocabulary\Test Vocabulary\Test Vocabulary\obj\Debug\Test_Vocabulary.Form4.resources

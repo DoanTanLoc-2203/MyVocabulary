@@ -1,0 +1,68 @@
+
+1.mở rộng, tăng thêm-enlarge/Verb 
+2.đa dạng hóa-diversify/Verb 
+3.đưa ra, cung cấp, tặng-offer/Verb 
+4.xấp xỉ, gần đúng-approximate/Adjective 
+5.sự vứt bỏ, nhượng lại-disposal/Noun 
+6.không để ý, phớt lờ-ignore/Verb 
+7.sự ngu dốt-ignorance/Noun 
+8.uể oải, yếu ớt-faint/Adjective 
+9.tuyển dụng-engage/Verb 
+10.bắt buộc, ép buộc-obligate/Verb 
+11.xác định, quyết định-determine/Verb 
+12.sự cung cấp-provision/Noun 
+13.cung cấp, cung ứng-provide/Verb 
+14.rõ ràng, cụ thể, đặc trưng-specific/Adjective 
+15.thuốc đặc hiệu, cái riêng-specific/Noun 
+16.dùng, tiêu thụ-consume/Verb 
+17.hiện hành, phổ biến-current/Adjective 
+18.hiện nay-currently/Adverb 
+19.sự hài lòng, sự thỏa mãn-satisfaction/Noun 
+20.cân nhắc, xem xét-consider/Verb 
+21.sự hết hạn, sự kết thúc-expiration/Noun 
+22.thường xuyên-frequently/Adverb
+23.nói bóng gió, ngụ ý, hàm ý-imply/Verb 
+24.sự danh tiếng-reputation/Noun 
+25.đòi hỏi, yêu cầu-require/Verb
+26.chứng tỏ, chứng minh-demonstrate/Verb 
+27.đánh giá-evaluate/Verb 
+28.tập hợp, thu thập-gather/Verb 
+29.đầu tiên, chính, quan trọng-primary/Adjective 
+30.chiến lược-strategy/Noun 
+31.sự kết hợp, liên hợp-association/Noun 
+32.kết giao, liên đới-associate/Adjective 
+33.sự thay thế-substitution/Noun 
+34.điều chỉnh cho phù hợp, thích hợp-accommodate/Verb 
+35.sức chứa-capacity/Noun 
+36.buổi họp, phiên họp, phiên-session/Noun 
+37.hợp nhau, tương thích-compatible/Adjective 
+38.nhận ra, hiểu ra-figure out/Orther 
+39.(giá) phải chăng, vừa phải-affordable/Adjective 
+40.lâu bền, bền vững-durable/Adjective 
+41.sáng kiến-initiative/Noun 
+42.trở lại, tái diễn lại-recur/Verb 
+43.sự đánh giá cao, biết thưởng thức-appreciation/Noun 
+44.tình cờ, ngẫu nhiên-casually/Adverb 
+45.phơi bày,  vạch trần-expose/Verb 
+46.cái nhìn lướt qua-glimpse/Noun 
+47.tăng cường, gia cố-reinfore/Verb 
+48.bằng miệng, bằng lời nói-verbally/Adverb 
+49.làm cho dễ dàng, thuận lợi-facilitate/Verb 
+50.tập hợp lại, lắp ráp-assemble/Verb 
+51.sự phức tạp, sự rắc rối-complication/Noun 
+52.người đưa thư-courier/Noun 
+53.đơn xin, đơn kiến nghị-petition/Noun 
+54.bằng chứng, chứng cứ-proof/Noun 
+55.xem lại, sửa lại-revise/Verb 
+56.thành tựu-accomplishment/Noun 
+57.phẩm chất, năng lực-qualification/Noun 
+58.có khả năng-ability/Noun 
+59.thành thạo, tinh thông-expert/Adjective 
+60.yếu đuối, yếu ớt-weak/Adjective 
+61.bù đắp, bồi thường-compensate/Verb 
+62.thanh mảnh, mỏng manh-delicate/Adjective 
+63.do dự, ngập ngùng-hesitant/Adjective 
+64.phát sinh, tạo ra-generate/Verb 
+65.đủ tư cách, thích hợp-eligible/Adjective 
+66.linh hoạt, linh động-flexibly/Adverb 
+67.đàm phán-negotiate/Verb 
