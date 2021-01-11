@@ -61,3 +61,7 @@
     </figure>
 </center> 
 - If you want to use this app you can go to this path *"MyVocabulary-main\Test Vocabulary\bin\Debug"* and run *"Test Vocabulary.exe"*
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
