@@ -29,13 +29,12 @@ There are my little project with `C#`
     -   `Add vocab`: you can remember the new word that you learned into
         this app’s data. When you click this button, the `Add vocab`
         form will appear.
-        
+ 
         <p align="center">
             <img src="https://i.imgur.com/l9uzHRh.png">
         </p>
-        -`Add`: you can type all data which you want to save and
-            click this button to save this word to your vocabulary data.
-        -`Refresh`: click to refresh all textbox.
+        *   `Add`: you can type all data which you want to save and click this button to save this word to your vocabulary data.
+        *   `Refresh`: click to refresh all textbox.
     -   `My vocab`: this is the place you can fix or delete your
         voabulary storage. When you click this button, the `My vocab`
         form will appear.
