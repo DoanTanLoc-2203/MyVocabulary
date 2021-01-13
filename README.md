@@ -6,7 +6,7 @@ There are my little project with `C#`
     when you learned a new word, you can save it into this application.
     This app will help you train for your vocabulary.
     
-    <img align="center" width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+    <img align="center" width="33%" src="https://i.imgur.com/FDqPWC6.png">
     ![](https://i.imgur.com/FDqPWC6.png)
 -   This is a user’s interface:
     
