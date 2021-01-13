@@ -5,8 +5,10 @@ There are my little project with `C#`
     vocabulary. This application like a vocabulary note (`flash card`).
     when you learned a new word, you can save it into this application.
     This app will help you train for your vocabulary.
+    
     ![](https://i.imgur.com/FDqPWC6.png)
 -   This is a user’s interface:\
+    
     ![](https://i.imgur.com/qgHZEdr.png)
 -   There are some `buttons` in the user’s interface:
 
@@ -23,6 +25,7 @@ There are my little project with `C#`
     -   `Add vocab`: you can remember the new word that you learned into
         this app’s data. When you click this button, the `Add vocab`
         form will appear.
+        
         ![](https://i.imgur.com/l9uzHRh.png)
         -   `Add`: you can type all data which you want to save and
             click this button to save this word to your vocabulary data.
@@ -30,10 +33,12 @@ There are my little project with `C#`
     -   `My vocab`: this is the place you can fix or delete your
         voabulary storage. When you click this button, the `My vocab`
         form will appear.
+        
         ![](https://i.imgur.com/dIL0R4H.png)
         -   `Load`: firstly, you must chose the word which you want to
             fix or delete in the list box. After that you can click this
             button to load data of this word like this.
+            
             ![](https://i.imgur.com/DLc92BW.png)
         -   `Delete`: after load data of this word, you can click this
             button to delete this vocab out of your voabulary storage.
@@ -43,6 +48,7 @@ There are my little project with `C#`
         internet. This API doesn’t smart but it works and doesn’t use
         internet. It can translate Vietnamese to English and opposite.
         when you click this button the `Translate` form will appear.
+        
         ![](https://i.imgur.com/zfzz1ht.png)
         -   Type your text which you want to translate and click
             corresponding button.
@@ -50,6 +56,7 @@ There are my little project with `C#`
         usage.
 -   Finally, this is so really basic database. I just use text file to
     storage all data upload and download into the app.
+    
     ![](https://i.imgur.com/ntiq8yf.png)
 -   If you want to use this app you can go to this path
     *“MyVocabulary-main\\Test Vocabulary\\bin\\Debug”* and run *“Test
