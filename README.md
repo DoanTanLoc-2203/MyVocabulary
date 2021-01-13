@@ -11,7 +11,9 @@ There are my little project with `C#`
     </p>
 -   This is a user’s interface:
     
-    ![](https://i.imgur.com/qgHZEdr.png)
+    <p align="center">
+         <img src="https://i.imgur.com/qgHZEdr.png">
+    </p>
 -   There are some `buttons` in the user’s interface:
 
     -   `Submit`: you can type your answer into the textbox and click
@@ -28,7 +30,9 @@ There are my little project with `C#`
         this app’s data. When you click this button, the `Add vocab`
         form will appear.
         
-        ![](https://i.imgur.com/l9uzHRh.png)
+        <p align="center">
+            <img src="https://i.imgur.com/l9uzHRh.png">
+        </p>
         -   `Add`: you can type all data which you want to save and
             click this button to save this word to your vocabulary data.
         -   `Refresh`: click to refresh all textbox.
@@ -36,12 +40,15 @@ There are my little project with `C#`
         voabulary storage. When you click this button, the `My vocab`
         form will appear.
         
-        ![](https://i.imgur.com/dIL0R4H.png)
+        <p align="center">
+            <img src="https://i.imgur.com/dIL0R4H.png">
+        </p>
         -   `Load`: firstly, you must chose the word which you want to
             fix or delete in the list box. After that you can click this
             button to load data of this word like this.
-            
-            ![](https://i.imgur.com/DLc92BW.png)
+        <p align="center">
+            <img src="https://i.imgur.com/DLc92BW.png">
+        </p>            
         -   `Delete`: after load data of this word, you can click this
             button to delete this vocab out of your voabulary storage.
         -   `Replace`: after load data of this word, you can type data
@@ -51,7 +58,9 @@ There are my little project with `C#`
         internet. It can translate Vietnamese to English and opposite.
         when you click this button the `Translate` form will appear.
         
-        ![](https://i.imgur.com/zfzz1ht.png)
+        <p align="center">
+            <img src="https://i.imgur.com/zfzz1ht.png">
+        </p>  
         -   Type your text which you want to translate and click
             corresponding button.
     -   `Help`: this app will give you some information of developer and
@@ -59,7 +68,9 @@ There are my little project with `C#`
 -   Finally, this is so really basic database. I just use text file to
     storage all data upload and download into the app.
     
-    ![](https://i.imgur.com/ntiq8yf.png)
+    <p align="center">
+        <img src="https://i.imgur.com/ntiq8yf.png">
+    </p>  
 -   If you want to use this app you can go to this path
     *“MyVocabulary-main\\Test Vocabulary\\bin\\Debug”* and run *“Test
     Vocabulary.exe”*
