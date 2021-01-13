@@ -7,9 +7,8 @@ There are my little project with `C#`
     This app will help you train for your vocabulary.
     
     <p align="center">
-         <img width="600" height="200" src="https://i.imgur.com/FDqPWC6.png">
+         <img src="https://i.imgur.com/FDqPWC6.png">
     </p>
-    ![](https://i.imgur.com/FDqPWC6.png)
 -   This is a user’s interface:
     
     ![](https://i.imgur.com/qgHZEdr.png)
